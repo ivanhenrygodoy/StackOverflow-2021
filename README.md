@@ -6,11 +6,11 @@
 
 ## **Content**
 
-1.  [**Introduction to business logic**](Introduction to business logic)
+1.  **Introduction to business logic**
 2.  **Description of the dataset and data dictionary of the dataset**
 3.  **Data profiling results**
 4.  **Specification of analytical needs that the proposed model will solve**
 5.  **Proposed dimensional model**
 6.  **Mappings by table**
 
-# **Introduction to business logic**
+
